@@ -1,0 +1,158 @@
+body{
+    overflow-x: hidden;
+}
+.top-section {
+    background-image: url("images/desktop/image-header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.top-img{
+    width: 20px;
+    text-align: center;
+    height: 15vh;
+   margin-top: 8%;
+}
+
+/* nav section */
+.navbar {
+    padding: 0 0 4.5rem;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+    color: #fff;
+}
+
+a.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    color: #fff !important;
+}
+.badge{
+    background-color: #fff;
+    color: black;
+}
+
+/* second-section */
+.h3-1 {
+
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding: 20% 15% 0;
+}
+button {
+    margin-left: 20%;
+    border: none;
+    padding: 2% 2% 2%;
+}
+img {
+    width: 104%;
+}
+
+.cicle-text,h5{
+    text-align: center;
+   
+}
+
+/* fourth-section */
+.line-1 {
+    background-image: url("images/desktop/image-graphic-design.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+.line-2 {
+    background-image: url("images/desktop/image-photography.jpg");
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+}
+
+.p-2 {
+    margin: 5% 20% 10%;
+  color: hsl(198, 62%, 26%);  
+}
+.p-3 {
+ color:hsl(198, 62%, 26%) ;
+ margin: 5% 20% 10%;
+}
+.photos {
+    margin-top: 30%;
+    text-align: center;
+}
+h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 20% 15% 0%;
+}
+
+/* fifth section */
+.h1-second {
+    text-align: center;
+    padding: 5% 0 5%;
+    color: hsl(210, 4%, 67%);
+}
+p {
+    padding: 5% 18% 5%;
+}
+.circle-img {
+    width: 20%;
+}
+/* image-section */
+.img-4 {
+    width: 108%;
+    object-fit: contain;
+    object-position: center;
+}
+
+ /* footer section  */
+.logo-img {
+    width: 10%;
+    color: hsl(210, 4%, 67%);
+    text-align: center;
+}
+.footer-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex ;
+    justify-content: space-between;
+    width: 20%;
+    color:  hsl(168, 44%, 25%);
+    margin-left: 40%;
+    padding: 2% 2% 2%;
+}
+.last-img {
+    width: 20px;
+    margin-left: 15px;
+
+}
+footer {
+    background-color: hsl(168, 34%, 41%);
+    padding: 5% 5% 5%;
+}
+footer,h2{
+    color:hsl(168, 44%, 25%) ;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    font-weight: 900%;
+}
+
+
+
+
+
